@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2c9d4ce-d216-49f2-9045-dd3879613c2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="package.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1gZYJdOnKmPo1gBF5OPuruteBHJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/utils" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="F:\work_zone\sweet-vue\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work_zone\sweet-vue\test\utils" />
+      <recent name="F:\work_zone\sweet-vue\templates\pc\v2\js" />
+      <recent name="F:\work_zone\sweet-vue\templates\pc\v2\js\src\assets" />
+      <recent name="F:\work_zone\sweet-vue\templates\pc\v2\js\src\views" />
+      <recent name="F:\work_zone\sweet-vue\templates\pc\js\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work_zone\sweet-vue\templates\pc\v2\js" />
+      <recent name="F:\work_zone\sweet-vue\templates\pc\v2\js\ejs" />
+      <recent name="F:\work_zone\sweet-vue\templates\pc\v2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.templateHelpler test.run copyTemplates">
+    <configuration name="sweet-vue:test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="sweet-vue:test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/commands/hello.test.ts</test-file>
+      <test-names>
+        <name value="hello" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="templateHelpler test.run copyTemplates" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/utils/templateHelper.test.ts</test-file>
+      <test-names>
+        <name value="templateHelpler test" />
+        <name value="run copyTemplates" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="templateHelpler test.run getTemplateDir" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/utils/templateHelper.test.ts</test-file>
+      <test-names>
+        <name value="templateHelpler test" />
+        <name value="run getTemplateDir" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="templateHelpler test.run " type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/utils/templateHelper.test.ts</test-file>
+      <test-names>
+        <name value="templateHelpler test" />
+        <name value="run " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.templateHelpler test.run copyTemplates" />
+        <item itemvalue="Mocha.templateHelpler test.run getTemplateDir" />
+        <item itemvalue="Mocha.templateHelpler test.run " />
+        <item itemvalue="npm.sweet-vue:test" />
+        <item itemvalue="Mocha.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c9d4ce-d216-49f2-9045-dd3879613c2f" name="Default Changelist" comment="" />
+      <created>1598323510562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598323510562</updated>
+      <workItem from="1598323511649" duration="4033000" />
+      <workItem from="1598327579208" duration="13774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598327412162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598327412162" />
+    <state x="715" y="222" width="752" height="596" key="#xdebugger.evaluate" timestamp="1598438013231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" width="752" height="596" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1598438013231" />
+    <state width="885" height="466" key="DebuggerActiveHint" timestamp="1598424040576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="885" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1598424040576" />
+    <state width="1899" height="376" key="GridCell.Tab.0.bottom" timestamp="1598439057870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057870" />
+    <state width="1899" height="376" key="GridCell.Tab.0.center" timestamp="1598439057870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057870" />
+    <state width="1899" height="376" key="GridCell.Tab.0.left" timestamp="1598439057869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057869" />
+    <state width="1899" height="376" key="GridCell.Tab.0.right" timestamp="1598439057870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057870" />
+    <state width="1899" height="376" key="GridCell.Tab.1.bottom" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state width="1899" height="376" key="GridCell.Tab.1.center" timestamp="1598439057870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057870" />
+    <state width="1899" height="376" key="GridCell.Tab.1.left" timestamp="1598439057870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057870" />
+    <state width="1899" height="376" key="GridCell.Tab.1.right" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state width="1899" height="376" key="GridCell.Tab.2.bottom" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state width="1899" height="376" key="GridCell.Tab.2.center" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state width="1899" height="376" key="GridCell.Tab.2.left" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state width="1899" height="376" key="GridCell.Tab.2.right" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state width="1899" height="376" key="GridCell.Tab.3.bottom" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state width="1899" height="376" key="GridCell.Tab.3.center" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state width="1899" height="376" key="GridCell.Tab.3.left" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state width="1899" height="376" key="GridCell.Tab.3.right" timestamp="1598439057871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598439057871" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1598327547022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598327547022" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1598438012582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1598438012582" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/utils/templateHelper.ts</url>
+          <line>16</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/utils/templateHelper.ts</url>
+          <line>15</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/utils/templateHelper.test.ts</url>
+          <line>11</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
